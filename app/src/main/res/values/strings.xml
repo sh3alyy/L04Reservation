@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L04Reservation</string>
+    <string name="name">\@string/name\n</string>
+    <string name="telephone">\@string/telephone</string>
+    <string name="size">\@string/size</string>
+    <string name="smoke">\@string/smoke</string>
+    <string name="reserve">\@string/reserve</string>
+    <string name="reset">\@string/reset</string>
+</resources>
